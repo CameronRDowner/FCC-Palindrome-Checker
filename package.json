@@ -1,0 +1,14 @@
+{
+  "name": "palindrome-checker",
+  "version": "1.0.0",
+  "description": "js function that checks if the inputted string is a palindrome (spells the same forwards and reversed) and returns a boolean value",
+  "main": "Palindrome Checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Downer",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.15.3"
+  }
+}
